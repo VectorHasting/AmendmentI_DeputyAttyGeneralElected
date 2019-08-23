@@ -1,4 +1,4 @@
-# AmendmentH_VicePresidentElected
+# AmendmentJ_DeputyAttorneyGeneralElected
 Amendment to the US Constitution to elect the Deputy Attorney General separately from other offices.
 
 This is one of 10 Amendements Vector Hasting proposes to the US Constitution to preserve Freedom 
